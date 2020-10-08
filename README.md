@@ -1,4 +1,4 @@
-### Hello, let's talk 👋
+## Hello, let's talk 👋
 
 
 
@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I like ping pong!
 
 
-## A bit about me
+### A bit about me
 My name is Ilia.<br/> 
   Im currently working as QA Engineer. i do maintenance and creation different automation test cases and scenarios on Selenium Java, preparation and running multiple JUnit/TestNG and cross browser testings.   
   My currently tasks is a testing projects for online education community sort of Virtual schoolhouses and different tools and futures for it.<br/> 
