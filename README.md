@@ -1,4 +1,4 @@
-### Hello, lest talk 👋
+### Hello, let's talk 👋
 
 
 
