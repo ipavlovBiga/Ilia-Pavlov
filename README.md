@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on make thiinks easier
+- 🔭 I’m currently working on make things easier
 - 🌱 I’m currently learning JS for [Cypress](https://www.npmjs.com/package/cypress-downloadfile)
 - 🤔 I’m looking recomendation with any comments for my repos. 
 - 💬 Ask me about anything
