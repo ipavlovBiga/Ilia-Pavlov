@@ -13,8 +13,9 @@
 ### A bit about me
 <p>My name is Ilia.</p> 
 <dl>
-   <dd> • Im working with maintenance and creation different automation test cases and scenarios on Selenium Java, preparation and running multiple JUnit/TestNG, cross browser/cross platform  testing.</dd>   
-   <dd> • Regression Testing for Modules, by reproducing the steps, to make sure the Module related to defect identified Module are working Fine and no new errors were introduced.
-   <dd> • Conducted GUI, UI, Usability, Functionality and Stress testing (tested app's behavior under various interruptions: battery strength (full/medium/low), incoming calls, SMS, video calls, choosing multiple videos simultaneously)
+   <dd> • I work with creation and maintenance different automation test cases and scenarios with Selenium + Java, preparation and running TestNG + Jenkins, cross browser/cross platform  testing, strong experienced in Page Object Model method, preparation and running JUnit 4/Jupiter and BDD/TDD with Cucumber + Gherkin
+   </dd>   
+   <dd> • Functional, Regression and Smoke Testing for UI, by reproducing the steps, to make sure the build related to defect identified, biuld are working Fine and no new errors were introduced.
+   <dd> • Experienced in Software Development Life Cycle (SDLC), Test Development Life Cycle (STLC or TDLC) and design
 </dl>
 
