@@ -15,7 +15,9 @@
 <dl>
    <dd> • I work with creation and maintenance different automation test cases and scenarios with Selenium + Java, preparation and running TestNG + Jenkins, cross browser/cross platform  testing, strong experienced in Page Object Model method, preparation and running JUnit 4/Jupiter and BDD/TDD with Cucumber + Gherkin
    </dd>   
-   <dd> • Functional, Regression and Smoke Testing for UI, by reproducing the steps, to make sure the build related to defect identified, biuld are working Fine and no new errors were introduced.
+   <dd> • Functional, Regression and Smoke Testing for UI, by reproducing the steps, to make sure the build related to defect identified, biuld are working Fine and no new errors were introduced. 
    <dd> • Experienced in Software Development Life Cycle (SDLC), Test Development Life Cycle (STLC or TDLC) and design
+      
+      <dd> • since pandemic was started I worked with project on Python for Mobile and Web and I assume it'll be good share a few things here, as architecture and methods 
 </dl>
 
