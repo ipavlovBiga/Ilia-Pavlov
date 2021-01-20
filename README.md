@@ -18,7 +18,7 @@
    <dd> • Functional, Regression and Smoke Testing for UI, by reproducing the steps, to make sure the build related to defect identified, biuld are working Fine and no new errors were introduced. 
    <dd> • Experienced in Software Development Life Cycle (SDLC), Test Development Life Cycle (STLC or TDLC) and design
       
-       • since pandemic was started I worked with project on Python for Mobile and Web 
-               and I assume it'll be good share a few things here, as architecture and methods 
+       • since pandemic I was started work with project on Python for Mobile and Web using Appium and behave
+               and I assume it'll be a good share a few things here. 
 </dl>
 
